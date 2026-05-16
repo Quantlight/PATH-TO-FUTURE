@@ -1,5 +1,5 @@
-import { useState } from "react";
-
+// import { useState } from "react";
+const { useState } = React;
 const plan = {
   overview: {
     title: "Master Design, Animation, Vision AI & Quantum",
